@@ -9,6 +9,15 @@ a {
   height: 250px !important;
   margin-bottom: 20px !important;
 }
+.cartbutton1 {
+  background-color: green !important;
+  color: white !important;
+  padding: 6px 8px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+}
 .card-body h6 {
   height: 50px;
 }
